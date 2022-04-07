@@ -1,1 +1,1 @@
-# ComputerMusicProgramming
+# Computer Music Programming
