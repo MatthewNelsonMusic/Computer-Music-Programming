@@ -20,7 +20,7 @@ my own mouse, but it's possible to develop it so that more mouse types can be in
 
 [External Pitch Wheel](https://drive.google.com/file/d/1IDdhjXZFMvxVWjG_CRkRjAKAjn7_hHfN/view?usp=sharing)
 
-*The following patch is an updated version with all of the bugs fixed. 
+*The following patch is an updated version with all of the bugs fixed.  
 [External Pitch Wheel Final](https://drive.google.com/file/d/1mPWS0Hi6wnifdFw1KhYMQEoZ150osdob/view?usp=sharing)
 
 ### *Assignment #4: Algorithmic Composition*
