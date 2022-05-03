@@ -22,7 +22,7 @@ my own mouse, but it's possible to develop it so that more mouse types can be in
 
 ### *Assignment #4: Algorithmic Composition*
 This is a basic ear training program. For most of the program, I use *coll* objects to store the midi numbers
-for chords. On the hardest level, I use the chaos algorithm "(x=rx(1-x))" to produce bass notes for the chords, then I
+for chords. On the hardest level, I use the chaos algorithm (x=rx(1-x)) to produce bass notes for the chords, then I
 use the *random* object to build the notes on top of the bass. If I were to develop this further, I would include a mode that
 shows the chord symbol for what chord the program is playing.
 
