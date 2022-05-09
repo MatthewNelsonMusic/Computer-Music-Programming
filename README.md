@@ -31,3 +31,10 @@ use the *random* object to build the notes on top of the bass. If I were to deve
 shows the chord symbol for what chord the program is playing.
 
 [Chord Ear Training](https://drive.google.com/file/d/16TUzwDgOjtRWkc8ab43aCCahWckhtEE5/view?usp=sharing)
+
+### *Assignment #5: Project Proposal*
+For the final project, Ashvin Radhakrishnan and I would like to create a program that allows for the user to create a small piece of music that resembles sonata form.
+Ideally, the program will respond to an initial user input, and the user will be able to manipulate the music in real-time. This proposal details the logistics for this
+project as well as other things.
+
+[Project Proposal](https://docs.google.com/document/d/1HMksprqXzN95VQwA7gRiplGpPH7Q-1lEWghMzNcy6sA/edit?usp=sharing)
