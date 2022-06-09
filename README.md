@@ -37,4 +37,10 @@ For the final project, Ashvin Radhakrishnan and I would like to create a program
 Ideally, the program will respond to an initial user input, and the user will be able to manipulate the music in real-time. This proposal details the logistics for this
 project as well as other things.
 
-[Project Proposal](https://docs.google.com/document/d/1HMksprqXzN95VQwA7gRiplGpPH7Q-1lEWghMzNcy6sA/edit?usp=sharing)
+[Project Proposal](https://docs.google.com/document/d/1HMksprqXzN95VQwA7gRiplGpPH7Q-1lEWghMzNcy6sA/edit?usp=sharing)  
+
+### *Final Project* 
+In this project, entitled Sonata Generator, we aimed to create a program that allowed the user to input MIDI data and create music based on that data. 
+All documentation is in the max patch under the 'Documentation' tab. 
+
+[Final Project](https://drive.google.com/drive/folders/1AgnJDOpwhpb_eSyJ4tMJaHtULcBuwLp4?usp=sharing)
